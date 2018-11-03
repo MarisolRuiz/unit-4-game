@@ -1,0 +1,74 @@
+body {
+	background-color: lightblue;
+}
+
+#heading {
+	font-size: 24px;
+	color: white;
+    padding: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: orange;
+}
+
+img {
+      width: 100px;
+      height: 100px;
+}
+
+#instructions {
+	padding: 40px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #fae5c9;
+	width: 50%;
+	color: green;
+}
+
+#section1 {
+	margin: 20px 0 20px 0;
+	height: 100px;
+	width: 300px;
+}
+
+#targetNumber {
+	background-color: #2c9e94;
+	margin-right: 5px;
+	width: 200px;
+	height: 100%;
+	float: left;
+}
+
+#wins-losses {
+	background-color: #c3eaeb;
+	float: left;
+	width: 70px;
+	height: 100%;
+	padding-left: 5px;
+}
+
+#wins {
+	padding-top: 10px;
+}
+
+#outcome {
+	padding-top: 10px
+}
+
+#end {
+	background-color: #3b9e93;
+	width: 200px;
+	height: 100px;
+}
+
+#total {
+	margin-bottom: 10px;
+	padding-right: 20px;
+	color: white;
+}
+
+#totalScore {
+	margin-top: 10px;
+	float: left;
+	color: white;
+}
